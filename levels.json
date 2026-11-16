@@ -1,1 +1,61 @@
-{"note":"Will be filled in by the first GitHub Actions run."}
+{
+  "symbol": "NQ=F",
+  "generated_at": "2026-11-16T16:45-05:00",
+  "trading_date": "2026-11-16",
+  "prior_rth_date": "2026-11-13",
+  "last": 27295.0,
+  "prior_close": 28038.25,
+  "prior_day_equilibrium": 28047.12,
+  "zone_vs_prior_day": "discount",
+  "levels": [
+    {
+      "name": "Prior day high (PDH)",
+      "price": 28399.0,
+      "status": "neu",
+      "statusText": "Resting"
+    },
+    {
+      "name": "Overnight high",
+      "price": 28279.25,
+      "status": "neu",
+      "statusText": "Resting"
+    },
+    {
+      "name": "London high",
+      "price": 27853.25,
+      "status": "neu",
+      "statusText": "Resting"
+    },
+    {
+      "name": "Asia high",
+      "price": 28178.25,
+      "status": "neu",
+      "statusText": "Resting"
+    },
+    {
+      "name": "Asia low",
+      "price": 27802.25,
+      "status": "bear",
+      "statusText": "Taken"
+    },
+    {
+      "name": "London low",
+      "price": 27717.75,
+      "status": "bear",
+      "statusText": "Taken"
+    },
+    {
+      "name": "Overnight low",
+      "price": 27234.75,
+      "status": "neu",
+      "statusText": "Resting"
+    },
+    {
+      "name": "Prior day low (PDL)",
+      "price": 27695.25,
+      "status": "bear",
+      "statusText": "Taken"
+    }
+  ],
+  "note": "Yahoo NQ=F continuous contract, 1-minute bars, a few minutes delayed. Status 'Taken' = price has traded through the level since its session ended."
+}
