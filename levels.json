@@ -1,9 +1,9 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-16T17:01-05:00",
+  "generated_at": "2026-11-16T17:13-05:00",
   "trading_date": "2026-11-16",
   "prior_session_date": "2026-11-13",
-  "last": 27286.0,
+  "last": 27285.25,
   "prior_close": 28034.75,
   "prior_day_equilibrium": 28151.5,
   "zone_vs_prior_day": "discount",
@@ -11,51 +11,51 @@
     {
       "name": "Prior day high (PDH)",
       "price": 28607.75,
-      "status": "neu",
-      "statusText": "Resting"
+      "status": "unk",
+      "statusText": "Not reached"
     },
     {
       "name": "Overnight high",
       "price": 28279.25,
-      "status": "neu",
-      "statusText": "Resting"
+      "status": "unk",
+      "statusText": "Session extreme"
     },
     {
       "name": "London high",
       "price": 27853.25,
-      "status": "neu",
-      "statusText": "Resting"
+      "status": "unk",
+      "statusText": "Not reached"
     },
     {
       "name": "Asia high",
       "price": 28279.25,
-      "status": "neu",
-      "statusText": "Resting"
+      "status": "unk",
+      "statusText": "Not reached"
     },
     {
       "name": "Asia low",
       "price": 27854.25,
       "status": "bear",
-      "statusText": "Taken"
+      "statusText": "Taken 10:50p"
     },
     {
       "name": "London low",
       "price": 27717.75,
       "status": "bear",
-      "statusText": "Taken"
+      "statusText": "Taken 7:05a"
     },
     {
       "name": "Overnight low",
       "price": 27234.75,
-      "status": "neu",
-      "statusText": "Resting"
+      "status": "unk",
+      "statusText": "Session extreme"
     },
     {
       "name": "Prior day low (PDL)",
       "price": 27695.25,
       "status": "bear",
-      "statusText": "Taken"
+      "statusText": "Respected 12:56a, then taken 1:10a"
     }
   ],
-  "note": "Yahoo NQ=F continuous contract, 1-minute bars, a few minutes delayed. Status 'Taken' = price has traded through the level since its session ended."
+  "note": "Yahoo NQ=F continuous contract, 1-minute bars, a few minutes delayed. Taken = a 5-min close through the level. Respected = touched (within 5 pts) and reversed 40+ pts without a 5-min close through. Times are ET."
 }
