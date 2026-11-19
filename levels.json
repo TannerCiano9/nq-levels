@@ -1,9 +1,9 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-19T06:31-05:00",
+  "generated_at": "2026-11-19T06:59-05:00",
   "trading_date": "2026-11-19",
   "prior_session_date": "2026-11-18",
-  "last": 27748.5,
+  "last": 27817.25,
   "prior_close": 27175.0,
   "prior_day_equilibrium": 27263.5,
   "zone_vs_prior_day": "premium",
@@ -16,7 +16,7 @@
     },
     {
       "name": "Overnight high",
-      "price": 27792.5,
+      "price": 27830.5,
       "status": "unk",
       "statusText": "Session extreme"
     },
