@@ -1,58 +1,58 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-18T07:00-05:00",
-  "trading_date": "2026-11-18",
-  "prior_session_date": "2026-11-17",
-  "last": 27319.25,
-  "prior_close": 27126.0,
-  "prior_day_equilibrium": 27078.25,
+  "generated_at": "2026-11-19T06:31-05:00",
+  "trading_date": "2026-11-19",
+  "prior_session_date": "2026-11-18",
+  "last": 27748.5,
+  "prior_close": 27175.0,
+  "prior_day_equilibrium": 27263.5,
   "zone_vs_prior_day": "premium",
   "levels": [
     {
       "name": "Prior day high (PDH)",
-      "price": 27498.0,
+      "price": 27605.25,
       "status": "bear",
-      "statusText": "Taken 6:15p"
+      "statusText": "Taken 1:35a"
     },
     {
       "name": "Overnight high",
-      "price": 27605.25,
+      "price": 27792.5,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "London high",
-      "price": 27422.0,
-      "status": "bull",
-      "statusText": "Respected 5:06a"
+      "price": 27742.0,
+      "status": "bear",
+      "statusText": "Respected 5:07a, then taken 5:20a"
     },
     {
       "name": "Asia high",
-      "price": 27605.25,
+      "price": 27589.0,
+      "status": "bear",
+      "statusText": "Taken 1:35a"
+    },
+    {
+      "name": "Asia low",
+      "price": 27169.0,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
-      "name": "Asia low",
-      "price": 27137.25,
-      "status": "bear",
-      "statusText": "Respected 9:17p, then taken 9:50p"
-    },
-    {
       "name": "London low",
-      "price": 27216.0,
+      "price": 27627.5,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
       "name": "Overnight low",
-      "price": 27093.0,
+      "price": 27169.0,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "Prior day low (PDL)",
-      "price": 26658.5,
+      "price": 26921.75,
       "status": "unk",
       "statusText": "Not reached"
     }
