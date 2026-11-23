@@ -1,60 +1,60 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-20T06:58-05:00",
-  "trading_date": "2026-11-20",
-  "prior_session_date": "2026-11-19",
-  "last": 26180.25,
-  "prior_close": 26505.5,
-  "prior_day_equilibrium": 27137.0,
-  "zone_vs_prior_day": "discount",
+  "generated_at": "2026-11-23T06:30-05:00",
+  "trading_date": "2026-11-23",
+  "prior_session_date": "2026-11-20",
+  "last": 26003.25,
+  "prior_close": 25126.5,
+  "prior_day_equilibrium": 25790.0,
+  "zone_vs_prior_day": "premium",
   "levels": [
     {
       "name": "Prior day high (PDH)",
-      "price": 27838.0,
+      "price": 26603.5,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
       "name": "Overnight high",
-      "price": 26603.5,
+      "price": 26102.25,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "London high",
-      "price": 26447.75,
+      "price": 26102.25,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
       "name": "Asia high",
-      "price": 26603.5,
+      "price": 25904.75,
+      "status": "bear",
+      "statusText": "Respected 10:24p, then taken 10:40p"
+    },
+    {
+      "name": "Asia low",
+      "price": 25462.0,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
-      "name": "Asia low",
-      "price": 26372.25,
-      "status": "bear",
-      "statusText": "Taken 9:35p"
-    },
-    {
       "name": "London low",
-      "price": 26135.75,
+      "price": 25814.25,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
       "name": "Overnight low",
-      "price": 26135.75,
+      "price": 25462.0,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "Prior day low (PDL)",
-      "price": 26436.0,
-      "status": "bear",
-      "statusText": "Respected 6:35p, then taken 7:50p"
+      "price": 24976.5,
+      "status": "unk",
+      "statusText": "Not reached"
     }
   ],
   "note": "Yahoo NQ=F continuous contract, 1-minute bars, a few minutes delayed. Taken = a 5-min close through the level. Respected = touched (within 5 pts) and reversed 40+ pts without a 5-min close through. Times are ET."
