@@ -1,12 +1,12 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-24T06:33-05:00",
+  "generated_at": "2026-11-24T06:59-05:00",
   "trading_date": "2026-11-24",
   "prior_session_date": "2026-11-23",
-  "last": 26297.5,
+  "last": 26456.5,
   "prior_close": 26845.0,
   "prior_day_equilibrium": 26299.5,
-  "zone_vs_prior_day": "discount",
+  "zone_vs_prior_day": "premium",
   "levels": [
     {
       "name": "Prior day high (PDH)",
