@@ -1,9 +1,9 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-25T06:36-05:00",
+  "generated_at": "2026-11-25T07:02-05:00",
   "trading_date": "2026-11-25",
   "prior_session_date": "2026-11-24",
-  "last": 25581.75,
+  "last": 25570.0,
   "prior_close": 26266.0,
   "prior_day_equilibrium": 26517.0,
   "zone_vs_prior_day": "discount",
@@ -41,12 +41,12 @@
     {
       "name": "London low",
       "price": 25580.0,
-      "status": "bull",
-      "statusText": "Respected 5:29a"
+      "status": "bear",
+      "statusText": "Respected 5:29a, then taken 6:30a"
     },
     {
       "name": "Overnight low",
-      "price": 25569.0,
+      "price": 25518.5,
       "status": "unk",
       "statusText": "Session extreme"
     },
