@@ -1,60 +1,60 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-24T06:59-05:00",
-  "trading_date": "2026-11-24",
-  "prior_session_date": "2026-11-23",
-  "last": 26456.5,
-  "prior_close": 26845.0,
-  "prior_day_equilibrium": 26299.5,
-  "zone_vs_prior_day": "premium",
+  "generated_at": "2026-11-25T06:36-05:00",
+  "trading_date": "2026-11-25",
+  "prior_session_date": "2026-11-24",
+  "last": 25581.75,
+  "prior_close": 26266.0,
+  "prior_day_equilibrium": 26517.0,
+  "zone_vs_prior_day": "discount",
   "levels": [
     {
       "name": "Prior day high (PDH)",
-      "price": 27137.0,
+      "price": 27036.0,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
       "name": "Overnight high",
-      "price": 27036.0,
+      "price": 26350.75,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "London high",
-      "price": 26949.5,
+      "price": 25915.0,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
       "name": "Asia high",
-      "price": 27036.0,
+      "price": 26350.75,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
       "name": "Asia low",
-      "price": 26684.0,
+      "price": 26056.25,
       "status": "bear",
-      "statusText": "Taken 4:00a"
+      "statusText": "Taken 9:10p"
     },
     {
       "name": "London low",
-      "price": 26496.0,
-      "status": "bear",
-      "statusText": "Taken 5:05a"
+      "price": 25580.0,
+      "status": "bull",
+      "statusText": "Respected 5:29a"
     },
     {
       "name": "Overnight low",
-      "price": 26255.0,
+      "price": 25569.0,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "Prior day low (PDL)",
-      "price": 25462.0,
-      "status": "unk",
-      "statusText": "Not reached"
+      "price": 25998.0,
+      "status": "bear",
+      "statusText": "Taken 9:20p"
     }
   ],
   "note": "Yahoo NQ=F continuous contract, 1-minute bars, a few minutes delayed. Taken = a 5-min close through the level. Respected = touched (within 5 pts) and reversed 40+ pts without a 5-min close through. Times are ET."
