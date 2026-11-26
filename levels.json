@@ -1,6 +1,6 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-26T06:32-05:00",
+  "generated_at": "2026-11-26T07:02-05:00",
   "trading_date": "2026-11-26",
   "prior_session_date": "2026-11-25",
   "last": 26389.75,
@@ -34,7 +34,7 @@
     },
     {
       "name": "Asia low",
-      "price": 25997.5,
+      "price": 26007.0,
       "status": "unk",
       "statusText": "Not reached"
     },
@@ -46,7 +46,7 @@
     },
     {
       "name": "Overnight low",
-      "price": 25997.5,
+      "price": 26007.0,
       "status": "unk",
       "statusText": "Session extreme"
     },
