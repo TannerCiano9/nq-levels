@@ -1,60 +1,60 @@
 {
   "symbol": "NQ=F",
-  "generated_at": "2026-11-25T07:02-05:00",
-  "trading_date": "2026-11-25",
-  "prior_session_date": "2026-11-24",
-  "last": 25570.0,
-  "prior_close": 26266.0,
-  "prior_day_equilibrium": 26517.0,
-  "zone_vs_prior_day": "discount",
+  "generated_at": "2026-11-26T06:32-05:00",
+  "trading_date": "2026-11-26",
+  "prior_session_date": "2026-11-25",
+  "last": 26389.75,
+  "prior_close": 26000.5,
+  "prior_day_equilibrium": 25689.12,
+  "zone_vs_prior_day": "premium",
   "levels": [
     {
       "name": "Prior day high (PDH)",
-      "price": 27036.0,
-      "status": "unk",
-      "statusText": "Not reached"
+      "price": 26350.75,
+      "status": "bear",
+      "statusText": "Respected 8:25p, then taken 9:45p"
     },
     {
       "name": "Overnight high",
-      "price": 26350.75,
+      "price": 26436.0,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "London high",
-      "price": 25915.0,
+      "price": null,
       "status": "unk",
-      "statusText": "Not reached"
+      "statusText": "Check chart"
     },
     {
       "name": "Asia high",
-      "price": 26350.75,
+      "price": 26356.0,
+      "status": "bear",
+      "statusText": "Taken 9:45p"
+    },
+    {
+      "name": "Asia low",
+      "price": 25997.5,
       "status": "unk",
       "statusText": "Not reached"
     },
     {
-      "name": "Asia low",
-      "price": 26056.25,
-      "status": "bear",
-      "statusText": "Taken 9:10p"
-    },
-    {
       "name": "London low",
-      "price": 25580.0,
-      "status": "bear",
-      "statusText": "Respected 5:29a, then taken 6:30a"
+      "price": null,
+      "status": "unk",
+      "statusText": "Check chart"
     },
     {
       "name": "Overnight low",
-      "price": 25518.5,
+      "price": 25997.5,
       "status": "unk",
       "statusText": "Session extreme"
     },
     {
       "name": "Prior day low (PDL)",
-      "price": 25998.0,
-      "status": "bear",
-      "statusText": "Taken 9:20p"
+      "price": 25027.5,
+      "status": "unk",
+      "statusText": "Not reached"
     }
   ],
   "note": "Yahoo NQ=F continuous contract, 1-minute bars, a few minutes delayed. Taken = a 5-min close through the level. Respected = touched (within 5 pts) and reversed 40+ pts without a 5-min close through. Times are ET."
